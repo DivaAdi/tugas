@@ -1,0 +1,97 @@
+<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="divaadi.com" resolutions="1x" timestamp="1626015157763">
+  <folder name="css">
+    <file name="site_global.css" crc="4158607770"/>
+    <file name="master_a-master.css" crc="76875662" ref="index"/>
+    <file name="index.css" crc="4085771191" ref="index"/>
+  </folder>
+  <folder name="assets">
+    <folder name="animateuas">
+      <folder name="images">
+        <file name="animate_atlas_.png" crc="4221947124" mt="1626013675000"/>
+      </folder>
+      <file name="animate.js" crc="3777639117" mt="1626013675000"/>
+      <file name="animate.html" crc="160409098" mt="1626013675000"/>
+    </folder>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index"/>
+    <file name="museutils.js" crc="340535759" ref="index"/>
+    <file name="whatinput.js" crc="86476730" ref="index"/>
+    <file name="museconfig.js" crc="4286661555" ref="index"/>
+    <file name="jquery.watch.js" crc="51536988" ref="index"/>
+    <file name="webpro.js" crc="4059564322" ref="index"/>
+    <file name="form_check.php" crc="4020933626" ref="index"/>
+    <file name="form_throttle.php" crc="4259590256" ref="index"/>
+    <file name="form_process.php" crc="37464564" ref="index"/>
+    <file name="form-u754.php" crc="4154287278" ref="index"/>
+    <file name="jquery.scrolleffects.js" crc="39568856" ref="index"/>
+    <file name="require.js" crc="7928878" ref="index"/>
+  </folder>
+  <folder name="images">
+    <file name="design-layer 2c.jpg" crc="4163634232" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="design-layer 2 copy 4c.png" crc="3917411066" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="design-rectangle 3c.png" crc="4018040067" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="design-year book multimedia_190418_0231c.jpg" crc="4197021077" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="design-rounded rectangle 1c.png" crc="4292771309" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="design-layer 2 copy 4c2.png" crc="3920305886" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u752-4.png" crc="4090595258" ref="index"/>
+    <file name="u753-4.png" crc="386706260" ref="index"/>
+    <file name="blank.gif" crc="4208392903" ref="index"/>
+    <file name="u759.png" crc="130479203" ref="index"/>
+    <file name="u759-r.png" crc="3826579739" ref="index"/>
+    <file name="u771-4.png" crc="3847233835" ref="index"/>
+    <file name="u772-4.png" crc="4163468713" ref="index"/>
+    <file name="u773-4.png" crc="3758557602" ref="index"/>
+    <file name="design-c.png" crc="4139818153" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="design-c.png" crc="188184836" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="design-c.png" crc="160324703" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="instagram.png" crc="4200197306" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="instagram1.png" crc="515553978" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="whatsapp.png" crc="3973673333" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="whatsapp1.png" crc="4195485821" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="location.png" crc="423054721" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="location1.png" crc="324705894" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u782-5.png" crc="3787620610" ref="index"/>
+    <file name="design-stylusc.png" crc="281957515" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="design-stylus copyc.png" crc="460828171" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="design-logoc.png" crc="4168223546" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u789-5.png" crc="3866721318" ref="index"/>
+  </folder>
+  <file name="index.html" crc="4175434297" seo="true" mt="1626015012018" redirect="true"/>
+</manifest>

@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>http://divaadi.com/index.html</loc>
+    <lastmod>2021-07-11</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://divaadi.com/images/design-layer%202c.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://divaadi.com/images/design-layer%202%20copy%204c.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://divaadi.com/images/design-rectangle%203c.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://divaadi.com/images/design-year%20book%20multimedia_190418_0231c.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://divaadi.com/images/design-rounded%20rectangle%201c.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://divaadi.com/images/design-layer%202%20copy%204c2.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://divaadi.com/images/design-%EF%A1%B9c.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://divaadi.com/images/design-%EF%8F%85c.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://divaadi.com/images/design-%EF%85%ADc.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://divaadi.com/images/design-stylusc.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://divaadi.com/images/design-stylus%20copyc.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://divaadi.com/images/design-logoc.png</image:loc>
+    </image:image>
+  </url>
+</urlset>
